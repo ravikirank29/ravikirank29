@@ -87,16 +87,6 @@
 - Created remediation-focused security findings reports.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravikirank29&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikirank29&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🏆 Certifications & Learning
 
 - CompTIA Security+ (In Progress)  
@@ -120,4 +110,3 @@
 
 ---
 
-⭐ **"Helping organizations strengthen trust through security, governance, and continuous improvement."**
