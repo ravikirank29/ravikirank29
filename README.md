@@ -17,19 +17,18 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Cybersecurity & CloudOps Graduate Student at **York University, Toronto**
+- 🎓 Cybersecurity & CloudOps Graduate Student at **York University*
 - 🛡️ Passionate about **Governance, Risk & Compliance (GRC)** and Security Operations
 - 📋 Interested in **SOC 2, ISO 27001, NIST CSF, Risk Management, and Audit Readiness**
 - ☁️ Experienced in **AWS IAM, CloudTrail, Access Controls, and Security Monitoring**
 - 🔍 Skilled in **SIEM Tools: Splunk & ELK Stack**
 - 🧠 Strong interest in helping organizations improve security posture through controls and compliance
 - 🏆 CompTIA Security+ (In Progress)
-- 🌎 Based in **Toronto, Canada**
 - 🚀 Actively seeking **GRC Analyst, Compliance Analyst, and Cybersecurity Analyst roles**
 
 ---
 
-### 🔧 Core Skills
+### 🔧 Skills
 
 #### 🛡️ Governance, Risk & Compliance
 <p>
