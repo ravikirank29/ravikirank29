@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi Kiran Kambhampati</h1>
 <h3 align="center">🛡️ Cybersecurity & CloudOps Professional | GRC Analyst | Security Compliance Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/ravikirank29">
-    <img src="https://komarev.com/ghpvc/?username=ravikirank29&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://www.linkedin.com/in/ravikirankambhampati">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:ravikirankambhampati29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
-  </a>
-</p>
-
----
 
 ### 👨‍💻 About Me
 
