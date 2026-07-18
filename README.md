@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikirankambhampati)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikirankambhampati29@gmail.com)
 
-<br>
+<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00ff41&style=flat)
 
@@ -19,17 +19,21 @@
 
 ---
 
+<img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNqYWlxODdyaTJlZHd0NmIyemEzZmN2OXhkcTVtamFvYnJ3MmFrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" alt="Cybersecurity" />
+
 ## 👨‍💻 About Me
 
-I'm a **Cybersecurity & CloudOps graduate from York University** focused on building practical security experience across **SOC Operations, Detection Engineering, SIEM, Cloud Security, and GRC**.
+I'm a **Cybersecurity & CloudOps graduate from York University** focused on **SOC Operations, Detection Engineering, Cloud Security, and GRC**.
 
-I build hands-on cybersecurity labs to understand how security telemetry moves from endpoints into centralized monitoring platforms and becomes actionable detections, dashboards, alerts, and investigations.
+I build hands-on cybersecurity labs to understand how security telemetry is collected, analyzed, and transformed into actionable **detections, dashboards, alerts, and investigations**.
 
 Hands-on experience with **Splunk Enterprise, ELK Stack, AWS, Linux security monitoring, vulnerability assessment, and cloud infrastructure**.
 
 Currently exploring opportunities in **Cybersecurity Analysis, SOC Operations, Detection Engineering, Cloud Security, and GRC**.
 
 > 🛡️ **Telemetry → Detection → Alert → Investigation → Risk Reduction**
+
+<br clear="right"/>
 
 ---
 
@@ -38,12 +42,12 @@ Currently exploring opportunities in **Cybersecurity Analysis, SOC Operations, D
 <table>
 
 <tr>
-<td width="190"><b>🛡️ Enterprise SSH Threat Monitoring</b></td>
+<td width="180"><b>🛡️ Enterprise SSH Threat Monitoring</b></td>
 
 <td>
-Built an end-to-end cloud-based <b>SOC detection engineering lab</b> for monitoring suspicious SSH authentication activity.
+Built an end-to-end cloud-based <b>SOC detection engineering lab</b> for monitoring and investigating suspicious SSH authentication activity.
 
-Deployed <b>Splunk Enterprise</b> on AWS, collected Linux authentication telemetry using the <b>Splunk Universal Forwarder</b>, developed custom <b>SPL detections</b>, built an operational SOC dashboard, and configured automated alerts for potential brute-force activity.
+Deployed <b>Splunk Enterprise</b> on AWS, collected Linux authentication telemetry using the <b>Splunk Universal Forwarder</b>, developed custom <b>SPL detections</b>, built a SOC monitoring dashboard, and configured automated alerts for potential brute-force activity.
 
 <br><br>
 
@@ -81,7 +85,7 @@ Used <b>Burp Suite, Nmap, and OWASP ZAP</b> to identify and analyze security wea
 <td><b>☁️ Cloud & DevSecOps</b></td>
 
 <td>
-Worked with cloud infrastructure and automation across <b>AWS, Azure, and GCP</b>, including Infrastructure as Code, container orchestration, CI/CD pipelines, security monitoring, and cloud logging.
+Worked with cloud infrastructure and automation across <b>AWS, Azure, and GCP</b>, including Infrastructure as Code, container orchestration, CI/CD pipelines, cloud monitoring, and security controls.
 
 Applied security practices including <b>least-privilege IAM</b>, CIS-aligned controls, and centralized security monitoring.
 
