@@ -151,18 +151,3 @@ Applied security practices including <b>least-privilege IAM</b>, CIS-aligned con
 
 ---
 
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ravikirankambhampati">
-<img src="https://img.shields.io/badge/LinkedIn-Ravi%20Kiran%20Kambhampati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ravikirankambhampati29@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
