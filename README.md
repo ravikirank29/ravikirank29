@@ -13,7 +13,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://github.com/ravikirank29)
 
 </div>
 
@@ -148,19 +148,6 @@ Applied security practices including <b>least-privilege IAM</b>, CIS-aligned con
 | **Microsoft Certified: Azure AI Fundamentals** | ✅ Completed |
 | **Palo Alto Networks Cybersecurity Virtual Internship** | ✅ Completed |
 | **CompTIA Security+** | 📖 In Progress |
-| **ISC2 Certified in Cybersecurity (CC)** | 🎯 Preparing |
-| **NIST CSF / ISO 27001 / SOC 2** | 📚 Continuous Learning |
-
----
-
-## 🎯 Current Focus
-
-- 🔎 **Detection Engineering & Threat Hunting**
-- 🛡️ **SOC Operations & Incident Investigation**
-- 📊 **Splunk & SIEM Engineering**
-- ☁️ **AWS Cloud Security**
-- 📋 **Governance, Risk & Compliance**
-- 🤖 **Security Automation**
 
 ---
 
