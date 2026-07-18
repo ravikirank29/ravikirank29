@@ -1,98 +1,98 @@
-<h1 align="center">Hi 👋, I'm Ravi Kiran Kambhampati</h1>
-<h3 align="center">🛡️ Cybersecurity & CloudOps Professional | GRC Analyst | Security Compliance Enthusiast</h3>
+<div align="center">
 
+# 👋 Hi, I'm Ravi Kiran Kambhampati
 
-### 👨‍💻 About Me
+### 🛡️ Cybersecurity & CloudOps Graduate | SOC Operations | Detection Engineering | Cloud Security | GRC
 
-- 🎓 Cybersecurity & CloudOps Graduate Student at **York University*
-- 🛡️ Passionate about **Governance, Risk & Compliance (GRC)** and Security Operations
-- 📋 Interested in **SOC 2, ISO 27001, NIST CSF, Risk Management, and Audit Readiness**
-- ☁️ Experienced in **AWS IAM, CloudTrail, Access Controls, and Security Monitoring**
-- 🔍 Skilled in **SIEM Tools: Splunk & ELK Stack**
-- 🧠 Strong interest in helping organizations improve security posture through controls and compliance
-- 🏆 CompTIA Security+ (In Progress)
-- 🚀 Actively seeking **GRC Analyst, Compliance Analyst, and Cybersecurity Analyst roles**
+Building hands-on cybersecurity projects focused on **threat detection, SIEM engineering, security monitoring, cloud security, and governance, risk & compliance**.
 
----
+<br>
 
-### 🔧 Skills
+<a href="https://www.linkedin.com/in/ravikirankambhampati">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ravikirankambhampati29@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-#### 🛡️ Governance, Risk & Compliance
-<p>
-  <img src="https://img.shields.io/badge/GRC-1E3A8A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SOC%202-0F766E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ISO%2027001-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NIST%20CSF-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Risk%20Assessment-B91C1C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Audit%20Support-374151?style=for-the-badge"/>
-</p>
+<br><br>
 
-#### 🔐 Security Operations
-<p>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Log%20Analysis-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Threat%20Monitoring-991B1B?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/SOC-Operations-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Detection-Engineering-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud-Security-FF9900?style=flat-square"/>
+<img src="https://img.shields.io/badge/GRC-Risk_%26_Compliance-059669?style=flat-square"/>
 
-#### ☁️ Cloud Security
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CloudTrail-E11D48?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Least%20Privilege-065F46?style=for-the-badge"/>
-</p>
-
-#### 💻 Scripting & Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Documentation-334155?style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
-### 📂 Featured Projects
+## 👨‍💻 About Me
 
-🔹 **Security Monitoring & Compliance Lab**  
-- Built a monitoring environment using ELK Stack across Windows and Linux systems.  
-- Investigated alerts, documented findings, and maintained incident records.  
-- Applied security best practices aligned with governance standards.  
-- Recommended remediation actions to strengthen internal controls.
+I'm a **Cybersecurity & CloudOps graduate from York University** focused on building practical experience across **Security Operations, Detection Engineering, Cloud Security, and Governance, Risk & Compliance (GRC)**.
 
-🔹 **AWS Cloud Security Governance Project**  
-- Implemented IAM least-privilege policies and RBAC controls.  
-- Monitored CloudTrail logs for unauthorized access attempts.  
-- Documented security controls and remediation improvements.  
-- Strengthened cloud access governance posture.
+My hands-on work focuses on understanding and implementing the complete security monitoring lifecycle:
 
-🔹 **Web Security Risk Assessment Lab**  
-- Performed assessments on intentionally vulnerable web applications.  
-- Identified common risks such as SQL Injection and XSS.  
-- Created remediation-focused security findings reports.
+<div align="center">
 
----
-### 🏆 Certifications & Learning
+### `Telemetry` → `Detection` → `Investigation` → `Response` → `Risk Reduction`
 
-- CompTIA Security+ (In Progress)  
-- NIST Cybersecurity Framework (Practical Knowledge)  
-- ISO 27001 & SOC 2 (Actively Learning)  
-- Python Full Stack Internship – KodNest  
-- Hack The Box – Security Challenges
+</div>
+
+- 🛡️ Building hands-on **SOC and Detection Engineering** projects
+- 🔎 Working with **Splunk, ELK Stack, SIEM, and security log analysis**
+- ☁️ Exploring **AWS security, IAM, CloudTrail, RBAC, and least-privilege access**
+- 📊 Developing **security monitoring dashboards, SPL detections, and automated alerts**
+- 📋 Building practical knowledge of **GRC, NIST CSF, ISO 27001, SOC 2, and risk management**
+- 🐧 Working with **Linux and Windows security telemetry**
+- 🔐 Exploring **vulnerability assessment and web application security**
+- 🧠 Continuously developing practical cybersecurity skills through hands-on labs and projects
+- 🚀 Open to opportunities in **Cybersecurity, SOC Operations, Cloud Security, Detection Engineering, and GRC**
 
 ---
 
-### 🤝 Connect With Me
+# 🚀 Featured Security Projects
 
-<p>
-  <a href="https://www.linkedin.com/in/ravikirankambhampati">
-    <img src="https://img.shields.io/badge/LinkedIn-Ravi%20Kiran-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:ravikirankambhampati29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+## 🛡️ Enterprise SSH Threat Monitoring & Detection Engineering with Splunk
 
----
+> **AWS EC2 · Splunk Enterprise · Splunk Universal Forwarder · Ubuntu · Kali Linux · SPL · Detection Engineering**
 
+Built an end-to-end, cloud-hosted **SOC detection engineering lab** for monitoring, detecting, and investigating suspicious SSH authentication activity.
+
+### 🔍 What I Built
+
+- Deployed **Splunk Enterprise** as a centralized SIEM platform
+- Built the lab infrastructure using **AWS EC2**
+- Configured AWS networking and security groups
+- Deployed the **Splunk Universal Forwarder** on a monitored Ubuntu endpoint
+- Collected Linux authentication telemetry from `/var/log/auth.log`
+- Centralized security events in a dedicated Splunk index
+- Developed custom **SPL detection rules**
+- Detected repeated SSH authentication failures
+- Identified potential SSH brute-force activity
+- Identified high-volume suspicious source IP addresses
+- Identified frequently targeted user accounts
+- Monitored successful SSH authentications
+- Correlated suspicious authentication behavior
+- Built an operational **SOC monitoring dashboard**
+- Configured and validated **scheduled Splunk alerts**
+- Developed a structured SOC investigation workflow
+
+### 🔄 Detection Pipeline
+
+```text
+Attack Simulation
+        ↓
+Authentication Telemetry
+        ↓
+Splunk Universal Forwarder
+        ↓
+Splunk Enterprise
+        ↓
+SPL Detection Engineering
+        ↓
+SOC Dashboard
+        ↓
+Automated Alert
+        ↓
+SOC Investigation
