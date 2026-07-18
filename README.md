@@ -11,4 +11,179 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikirankambhampati)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikirankambhampati29@gmail.com)
 
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat)
+
+</div>
+
+---
+
+<img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNqYWlxODdyaTJlZHd0NmIyemEzZmN2OXhkcTVtamFvYnJ3MmFrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" alt="Cybersecurity" />
+
+## 👨‍💻 About Me
+
+I'm a **Cybersecurity & CloudOps graduate from York University** focused on **SOC Operations, Detection Engineering, Cloud Security, and GRC**.
+
+I build hands-on cybersecurity labs to understand how security telemetry is collected, analyzed, and transformed into actionable **detections, dashboards, alerts, and investigations**.
+
+Hands-on experience with **Splunk Enterprise, ELK Stack, AWS, Linux security monitoring, vulnerability assessment, and cloud infrastructure**.
+
+Currently exploring opportunities in **Cybersecurity Analysis, SOC Operations, Detection Engineering, Cloud Security, and GRC**.
+
+> 🛡️ **Telemetry → Detection → Alert → Investigation → Risk Reduction**
+
+<br clear="right"/>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+
+<tr>
+<td width="220"><b>🛡️ Enterprise SSH Threat Monitoring</b></td>
+
+<td>
+Built an end-to-end cloud-based <b>SOC detection engineering lab</b> for monitoring and investigating suspicious SSH authentication activity.
+
+Deployed <b>Splunk Enterprise</b> on AWS, collected Linux authentication telemetry using the <b>Splunk Universal Forwarder</b>, developed custom <b>SPL detections</b>, built a SOC monitoring dashboard, and configured automated alerts for potential brute-force activity.
+
+<br><br>
+
+<sub>AWS EC2 • Splunk Enterprise • SPL • Ubuntu • Kali Linux • Detection Engineering</sub>
+</td>
+</tr>
+
+<tr>
+<td width="220"><b>🔐 Cybersecurity Capstone</b></td>
+
+<td>
+Conducted a <b>black-box penetration test</b> and vulnerability assessment against an authorized target environment.
+
+Used <b>Burp Suite, Nmap, and OWASP ZAP</b> to identify and analyze security weaknesses and produced a detailed vulnerability assessment report aligned with <b>OWASP Top 10</b> and <b>MITRE ATT&CK</b>.
+
+<br><br>
+
+<sub>Burp Suite • Nmap • OWASP ZAP • MITRE ATT&CK • OWASP Top 10</sub>
+</td>
+</tr>
+
+<tr>
+<td width="220"><b>☁️ Cloud & DevSecOps</b></td>
+
+<td>
+Worked with cloud infrastructure and automation across <b>AWS, Azure, and GCP</b>, including Infrastructure as Code, container orchestration, CI/CD pipelines, cloud monitoring, and security controls.
+
+Applied security practices including <b>least-privilege IAM</b>, CIS-aligned controls, and centralized security monitoring.
+
+<br><br>
+
+<sub>AWS • Azure • GCP • Terraform • Kubernetes • GitHub Actions • CI/CD</sub>
+</td>
+</tr>
+
+</table>
+
+---
+
+## 🛠️ Core Toolkit
+
+> Tools and technologies I use for security monitoring, detection engineering, cloud security, and analysis.
+
+<p>
+
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+
+</p>
+
+---
+
+<details>
+
+<summary><b>🔎 View Full Skillset</b></summary>
+
+<br>
+
+| Area | Skills & Technologies |
+|---|---|
+| **SOC & SIEM** | Splunk Enterprise, ELK Stack, Security Monitoring, Log Analysis, Alert Investigation |
+| **Detection Engineering** | SPL, Detection Development, Authentication Analysis, Event Correlation |
+| **Cloud Security** | AWS, Azure, GCP, IAM, CloudTrail, Security Groups, Least Privilege |
+| **Security Testing** | Burp Suite, Nmap, OWASP ZAP, Nessus |
+| **Frameworks** | MITRE ATT&CK, OWASP Top 10, NIST CSF, ISO 27001, CIS Controls |
+| **Infrastructure** | Terraform, Docker, Kubernetes, EKS |
+| **Automation** | Python, Bash, PowerShell |
+| **CI/CD** | GitHub Actions, GitLab CI, Jenkins |
+| **Operating Systems** | Ubuntu Linux, Kali Linux, Windows |
+
+</details>
+
+---
+
+## 📜 Certifications & Learning
+
+| Certification / Learning | Status |
+|---|---|
+| **Microsoft Certified: Azure AI Fundamentals** | ✅ Completed |
+| **Palo Alto Networks Cybersecurity Virtual Internship** | ✅ Completed |
+| **CompTIA Security+** | 📖 In Progress |
+| **ISC2 Certified in Cybersecurity (CC)** | 🎯 Preparing |
+| **NIST CSF / ISO 27001 / SOC 2** | 📚 Continuous Learning |
+
+---
+
+## 🎯 Current Focus
+
+- 🔎 **Detection Engineering & Threat Hunting**
+- 🛡️ **SOC Operations & Incident Investigation**
+- 📊 **Splunk & SIEM Engineering**
+- ☁️ **AWS Cloud Security**
+- 📋 **Governance, Risk & Compliance**
+- 🤖 **Security Automation**
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ravikirankambhampati">
+<img src="https://img.shields.io/badge/LinkedIn-Ravi%20Kiran%20Kambhampati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ravikirankambhampati29@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🛡️ Building Security • Detecting Threats • Reducing Risk
+
+**Cybersecurity • SOC Operations • Detection Engineering • Cloud Security • GRC**
+
 </div>
