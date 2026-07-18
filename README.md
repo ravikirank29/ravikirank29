@@ -13,7 +13,9 @@
 
 <br>
 
-![Profile Views](https://github.com/ravikirank29)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravikirank29&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -166,11 +168,3 @@ Applied security practices including <b>least-privilege IAM</b>, CIS-aligned con
 </p>
 
 ---
-
-<div align="center">
-
-### 🛡️ Building Security • Detecting Threats • Reducing Risk
-
-**Cybersecurity • SOC Operations • Detection Engineering • Cloud Security • GRC**
-
-</div>
