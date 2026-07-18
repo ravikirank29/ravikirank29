@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ravi Kiran Kambhampati
+# RAVI KIRAN KAMBHAMPATI
 
 ### 🛡️ Cybersecurity & CloudOps Graduate
 
